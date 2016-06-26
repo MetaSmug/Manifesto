@@ -1,6 +1,12 @@
-# MetaSmug Manifesto
+# MetaSmug Manifesto (just notes to self at this point)
 
 ## Talking points
+
+Focus on quality, simplicity, innovation, and workflow.  
+
+More lines of code != better quality code.
+
+Re-factoring.
 
 Re-defining ego: embracing the child-like show-and-tell sense of accomplishment.  Pride isn't the issue; elitism is.
 
@@ -40,4 +46,4 @@ Reddit /r/MetaSmug
 
 ## Copyright
 
-©2016, MetaSmug.com, All Rights Reserved (for the time being)
+©2016, MetaSmug.com, All Rights Reserved (at least until I actually write the manifesto)
